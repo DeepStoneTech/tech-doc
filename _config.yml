@@ -1,0 +1,23 @@
+title: DeepStone RWA 多签平台
+description: 面向机构级用户的通用型 RWA 管理与托管基础平台
+theme: minima
+author: DeepStone Tech
+url: https://deepstonetech.github.io
+baseurl: ""
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 排除文件
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
